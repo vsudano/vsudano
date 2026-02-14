@@ -6,7 +6,7 @@ Lead Software Engineer
 
 15+ years of experience designing and building scalable back-end systems and front-end applications in high-volume, high-availability retail environments for enterprise eCommerce platforms.
 
-In my most recent role, I lead a team dedicated to protecting profit by mitigating risk and fraud throughout various topologies within the cybersecurity, ecommerce, payments, and fulfillment domains.
+In my most recent role, I led a team dedicated to protecting profit by mitigating risk and fraud throughout various topologies within the cybersecurity, ecommerce, payments, and fulfillment domains.
 
 I also have a background in, and a passion for, solving supply-chain problems with software solutions for more than 35 corporation's warehouses and DCs utilizing LLMs, machine learning, and speech recognition engines.
 
