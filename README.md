@@ -10,6 +10,10 @@ In my most recent role, I lead a team dedicated to protecting profit by mitigati
 
 I also have a background in, and a passion for, solving supply-chain problems with software solutions for more than 35 corporation's warehouses and DCs utilizing LLMs, machine learning, and speech recognition engines.
 
+### Portfolio
+
+<a href="https://vsudano.github.io/portfolio/">View Portfolio</a>
+
 ### TECHNICAL SKILLS
 
 <p align="left">
